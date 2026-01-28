@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**jayanthi.vercel.app
+**URL**  https://jayanthi.vercel.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
